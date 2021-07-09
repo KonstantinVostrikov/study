@@ -1,3 +1,4 @@
 Goodbye!
 Some other line
 Line form User2
+another line from user2
